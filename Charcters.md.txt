@@ -1,3 +1,4 @@
 - Turtle 
 - Rabbit
-- 
+- Carrot 
+- Peacock 
